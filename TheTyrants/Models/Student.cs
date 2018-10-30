@@ -19,6 +19,13 @@ namespace TheTyrants.Models
             return "Oui monsieur !";
         }
 
+        public string LooseLife(int value)
+        {
+            this.Life -= value;
+            return $"{this.FirstName} {this.Name} perd " + value + "pts de vie.";
+
+        }
+
         public string Eat()
         {
             return $"{this.FirstName} {this.Name} est en train de manger une pomme.";

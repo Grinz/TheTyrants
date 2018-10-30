@@ -1,0 +1,11 @@
+C:\Users\drago\Downloads\TheTyrants-master\TheTyrants\bin\Debug\netcoreapp2.0\TheTyrants.deps.json
+C:\Users\drago\Downloads\TheTyrants-master\TheTyrants\bin\Debug\netcoreapp2.0\TheTyrants.runtimeconfig.json
+C:\Users\drago\Downloads\TheTyrants-master\TheTyrants\bin\Debug\netcoreapp2.0\TheTyrants.runtimeconfig.dev.json
+C:\Users\drago\Downloads\TheTyrants-master\TheTyrants\bin\Debug\netcoreapp2.0\TheTyrants.dll
+C:\Users\drago\Downloads\TheTyrants-master\TheTyrants\bin\Debug\netcoreapp2.0\TheTyrants.pdb
+C:\Users\drago\Downloads\TheTyrants-master\TheTyrants\obj\Debug\netcoreapp2.0\TheTyrants.csprojAssemblyReference.cache
+C:\Users\drago\Downloads\TheTyrants-master\TheTyrants\obj\Debug\netcoreapp2.0\TheTyrants.csproj.CoreCompileInputs.cache
+C:\Users\drago\Downloads\TheTyrants-master\TheTyrants\obj\Debug\netcoreapp2.0\TheTyrants.AssemblyInfoInputs.cache
+C:\Users\drago\Downloads\TheTyrants-master\TheTyrants\obj\Debug\netcoreapp2.0\TheTyrants.AssemblyInfo.cs
+C:\Users\drago\Downloads\TheTyrants-master\TheTyrants\obj\Debug\netcoreapp2.0\TheTyrants.dll
+C:\Users\drago\Downloads\TheTyrants-master\TheTyrants\obj\Debug\netcoreapp2.0\TheTyrants.pdb
